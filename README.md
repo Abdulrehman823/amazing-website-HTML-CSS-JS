@@ -9,7 +9,7 @@
             rel="stylesheet"
             href="https://public.codepenassets.com/css/normalize-5.0.0.min.css"
         />
-        <style>
+        <style> 
             * {
                 box-sizing: border-box;
             }
